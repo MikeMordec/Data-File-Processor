@@ -1,0 +1,6 @@
+11
+SumOfK
+5 12 8 10 7 4 3 5 5 3 2 1 
+Exercise1 calculation complexity O(n^2)
+Yes
+8+3=11

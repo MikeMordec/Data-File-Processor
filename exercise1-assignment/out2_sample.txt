@@ -1,0 +1,6 @@
+18
+SumOfK
+5 12 16 10 11 7 4 3 5 5 3 1 2 1 
+Exercise1 calculation complexity O(n^2)
+Yes
+16+2=18
